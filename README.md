@@ -7,9 +7,14 @@
 
 ### How to run?
 ```bash
-   #clone repositorY
+   #clone repository
    https://github.com/V0XTO/codember.git
+
    cd codember
+
+   #change directory in CHALLENGE_01
+   cd CHALLENGE_01
+
    #Run solution
    node CHALLENGE_01.js
 ```
