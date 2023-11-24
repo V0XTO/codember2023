@@ -2,8 +2,11 @@
 ![codember2023](./codemberimage.png)
 ## My solutions to codember 2023
 
-### prerequisites
- -Node js & git
+### Made with
+![Static Badge](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=JavaScript)
+![Static Badge](https://img.shields.io/badge/NODEJS-black?style=for-the-badge&logo=Node.js)
+
+
 
 ### How to run?
 ```bash
