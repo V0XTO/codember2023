@@ -8,7 +8,7 @@
 ### How to run?
 ```bash
    #clone repository
-   https://github.com/V0XTO/codember2023.git
+   git clone https://github.com/V0XTO/codember2023.git
 
    cd codember2023
 
