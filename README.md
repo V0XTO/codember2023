@@ -18,6 +18,6 @@
    cd CHALLENGE_01
 
    #Run solution
-   node CHALLENGE_01.js
+   node challenge_01.js
 ```
 
