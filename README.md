@@ -12,7 +12,7 @@
 
    cd codember
 
-   #change directory in CHALLENGE_01
+   #change directory to CHALLENGE_01
    cd CHALLENGE_01
 
    #Run solution
