@@ -11,7 +11,7 @@ const text = fs.readFileSync('./message_02.txt', 'utf-8')
 
 const compiler = (text) => {
     const array = Array.from(text)
-    let val = 0
+    
     
 array.reduce((acc, element) => {
     
@@ -27,7 +27,7 @@ array.reduce((acc, element) => {
     }
 
     return acc; 
-}, val);
+},0 );
 
 
 }
