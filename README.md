@@ -11,6 +11,8 @@
    git clone https://github.com/V0XTO/codember2023.git
 
    cd codember2023
+   #install modules
+   npm install
 
    #change directory to CHALLENGE_01
    cd CHALLENGE_01
