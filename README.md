@@ -10,7 +10,7 @@
    #clone repository
    https://github.com/V0XTO/codember2023.git
 
-   cd codember
+   cd codember2023
 
    #change directory to CHALLENGE_01
    cd CHALLENGE_01
